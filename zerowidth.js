@@ -31,6 +31,8 @@ const arr2 = [
     "KvasTime",
     "TrumpetTime",
     "buh2",
+    "ликвидирован",
+    "literallyPWGood",
 ];
 const randomArrays = [arr1, arr2];
 function pepe() {
