@@ -14,6 +14,23 @@ const arr2 = [
     "Explosion",
     "Pizdec",
     "NUCLEARBOMB",
+    "TeaTime",
+    "CakeTime",
+    "CrayonTime",
+    "nymnCorn",
+    "PianoTime",
+    "GuitarTime",
+    "WineTime",
+    "RainTime",
+    "MathTime",
+    "ViolinTime",
+    "SaxTime",
+    "RockTime",
+    "WideRaveTime",
+    "BeerTime",
+    "KvasTime",
+    "TrumpetTime",
+    "buh2",
 ];
 const randomArrays = [arr1, arr2];
 function pepe() {
